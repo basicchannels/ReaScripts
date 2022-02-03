@@ -57,3 +57,5 @@ See [enhancement Issues](https://github.com/MonkeyBars3k/ReaScripts/issues?q=is%
 
 ### Report a Bug
 Add a bug Issue [here](https://github.com/MonkeyBars3k/ReaScripts/issues/new).
+
+test edit by jb
